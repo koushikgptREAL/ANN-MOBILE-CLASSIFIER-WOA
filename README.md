@@ -16,7 +16,7 @@ Smartphones vary widely in specifications and price. This project aims to predic
 - `px_height`
 - `px_width`
 - `ram`  
-> *(You can modify to include more features if desired.)*
+
 
 ---
 
