@@ -8,15 +8,6 @@ This project implements an **Artificial Neural Network (ANN)** to classify smart
 
 Smartphones vary widely in specifications and price. This project aims to predict whether a phone is high-end based on features like battery power, screen resolution, and RAM. Initially, an ANN is trained using the **Adam Optimizer**. Later, **WOA** is applied to optimize key hyperparameters—improving accuracy significantly.
 
----
-
-## 📌 Features Used
-
-- `battery_power`
-- `px_height`
-- `px_width`
-- `ram`  
-
 
 ---
 
